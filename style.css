@@ -25,7 +25,7 @@ body {
 }
 
 .nav-logo a {
-  color: rgba(0, 0, 255, 0.575);
+  color: blue;
   text-decoration: none;
   font-size: 1.5em;
   font-weight: bold;
@@ -46,7 +46,7 @@ body {
 .nav-links a {
   float: left;
   display: block;
-  color: rgba(0, 0, 255, 0.575);
+  color: blue;
   text-decoration: none;
   font-size: 1em;
   padding: 5px 10px;
@@ -56,14 +56,14 @@ body {
 }
 
 .nav-links a:hover {
-  color: rgba(0, 0, 255, 0.644);
+  color: rgb(0, 0, 88);
   font-weight: bold;
   transform: scale(1.1); /* Scale the link */
   font-size: 1.1em; /* Slightly increase font size */
 }
 
 .attendance-btn {
-  color: rgba(0, 0, 255, 0.575);
+  color: blue;
   padding: 5px 15px;
   border-radius: 5px;
 }
@@ -75,7 +75,7 @@ body {
 
 #welcome {
   text-align: left;
-  color: rgba(0, 0, 255, 0.575);
+  color: blue;
   font-family: Helvetica;
   margin: 17%;
   font-size: 1.5em;
@@ -116,21 +116,21 @@ button {
   padding: 0.5rem 1rem;
   border: none;
   border-radius: 50px;
-  background-color: rgba(0, 0, 255, 0.575);
+  background-color: blue;
   color: white;
   cursor: pointer;
   justify-self: start;
 }
 
 button:hover {
-  background-color: rgba(0, 0, 255, 0.575);
+  background-color: blue;
   font-weight: bold;
   font-size: 1.1rem;
   transition: font-weight 0.3s ease-in-out, color 0.3s ease-in-out,
     font-size 0.3s ease-in-out; /* Transition effect */
 }
 button:hover {
-  background-color: rgba(0, 0, 255, 0.575);
+  background-color: blue;
 } /* class CSS ends here  */
 
 /* timetable CSS starts here  */
@@ -159,7 +159,7 @@ td {
 }
 
 thead th {
-  background-color: rgba(0, 0, 255, 0.575);
+  background-color: blue;
   color: white;
 }
 
